@@ -30,8 +30,8 @@ Integration with the following 3rd party systems is supported:
 - <b><a href=\"https://segment.com\">Segment</a></b> is a cloud platform for collecting, translating and routing customer data. Segment is integrated with a large number of systems, where this data can be analysed and visualied. 
 - <b><a href=\"http://zapier.com\">Zapier</a></b> enables you to automate tasks between other online services. There are two basic principles to Zapier: a trigger, then an action. You can use an event of entering a spot as a trigger event in Zapier (webhook).
 - <b>Screenz-API</b> is a Localz-developed extension for managing location-aware interactive screens. Intended to provide customers with a personalised experience through screens which respond to the customer’s proximity to the screen.
-- <b>HTTP GET WEBHOOK</b> use this extension to retrieve (HTTP GET) json data from a URL of your choice when user enters a spot.<p>
-- <b>Urban Airship</b> push notification and CRM service to add customer details within their service.
+- <b>HTTP GET WEBHOOK</b> use this extension to retrieve (HTTP GET) json data from a URL of your choice when user enters a spot.
+- <b>Urban Airship</b> push notification and CRM service to add customer details within their service.<p>
 
 These systems are a part of the second Spotz release, and we are activily working on adding more 3rd party integrations to Spotz platform. If you have any suggestions on what systems Spotz should integrate with, [drop 
 us a line] (mailto:spotz@localz.com).
