@@ -64,7 +64,7 @@ In this tutorial we will extend the Spotz demo app [(Android)](https://github.co
  - Choose <b> Extensions </b> left menu item. Click <b> Create an extension</b> and choose <b> HTTP GET Webhook </b>.
 
  <img alt="Select Extension" src="select_integration.png"> 
- <img alt="Create HTTP GET WEBHOOK" align="right" src="create_integration.png">
+ <img alt="Create HTTP GET WEBHOOK" src="create_integration.png">
 
  - Set 'Quote' as a name fot this Extension.
 
