@@ -33,7 +33,7 @@ Integration with the following 3rd party systems is supported:
 - <b>HTTP GET WEBHOOK</b> use this extension to retrieve (HTTP GET) json data from a URL of your choice when user enters a spot.
 - <b>Urban Airship</b> push notification and CRM service to add customer details within their service.<p>
 
-These systems are a part of the second Spotz release, and we are activily working on adding more 3rd party Extensions to Spotz platform. If you have any suggestions on what systems Spotz should integrate with, [drop us a line](mailto:spotz@localz.com).
+These systems are a part of the second Spotz release, and we are activily working on adding more 3rd party Extensions to Spotz platform. If you have any suggestions on what systems Spotz should integrate with, [drop us a line](mailto:info@localz.com).
  
 ### Spotz Extensions - Tutorial
 
